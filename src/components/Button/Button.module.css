@@ -1,0 +1,17 @@
+.button__container {
+  text-align: center;
+}
+
+.button__container button {
+  width: 115px;
+  height: 40px;
+  border: none;
+  color: white;
+  background-color: green;
+}
+
+.button__container span {
+  font-size: 13px;
+  color: gray;
+  margin-left: 10px;
+}

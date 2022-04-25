@@ -1,0 +1,16 @@
+.header {
+  max-width: 720px;
+  height: 34px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 45px;
+}
+
+.header h2 {
+  margin: 0;
+  color: gray;
+}
+.header b {
+  color: black;
+}
